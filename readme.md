@@ -18,7 +18,7 @@ The application can be found at <https://ahazu.shinyapps.io/Capstone_Project/>
 
 How to use the application
 ========================================================
-![Screenshot of application](presentation-figure/screenshot.PNG)
+![Screenshot of application](screenshot.PNG)
 ***
 To get started with the application you just need to open the [application](<https://ahazu.shinyapps.io/Capstone_Project/>), place your cursor on the "Input text" field and start typing.
 
